@@ -13,7 +13,7 @@ import PropTypes from 'prop-types';
 
 Navbar.defaultProps = {
   title: 'Github Finder',
-  Icon: 'fab fa-github'
+  icon: 'fab fa-github'
 };
 
 Navbar.propTypes = {
